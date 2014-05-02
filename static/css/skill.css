@@ -1,0 +1,20 @@
+h3 {
+  color: Brown;
+  font-family: Georgia;
+}
+
+a {
+  color: Brown;
+}
+
+a:hover {
+  color: blue;
+}
+
+p {
+  font-family:  Arial;
+}
+
+ul {
+  font-family:  Arial;
+}
